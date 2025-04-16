@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-WebMusicApplication<WebMusic>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "io.github.nyg404.webmusic.WebMusicApplication",
+      "projectName": "WebMusic",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}

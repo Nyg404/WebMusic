@@ -1,0 +1,20 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+
+        "editor.formatOnSave": true, 
+        "editor.tabSize": 2,
+        "editor.insertSpaces": true,
+        "files.autoSave": "onWindowChange",
+        "files.autoSaveDelay": 1000,
+        "eslint.enable": true,
+        "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
+        "editor.minimap.enabled": false,
+        "window.zoomLevel": 0,
+        "editor.smoothScrolling": true,
+        "editor.cursorBlinking": "smooth",
+        "javascript.updateImportsOnFileMove": "always",
+        "react-native.autoAttach": "onWindow",
+        "editor.renderWhitespace": "boundary"
+    
+     
+}
